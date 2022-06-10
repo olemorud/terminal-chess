@@ -17,4 +17,4 @@
 make
 ./chess
 ```
-[title](screenshot.png)
+[Screenshot](./screenshot.png)
