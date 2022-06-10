@@ -9,6 +9,8 @@
   - [ ] algebraic notation
   - [ ] detect notation
 - [ ] Move validation
+- [ ] Check for winner
+- [ ] Log game score sheet
 
 ## Compile and run
 ```sh
